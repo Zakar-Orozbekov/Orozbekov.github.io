@@ -1,0 +1,30 @@
+.w1{
+	color: #15382c;
+	font-size: 35px;
+	border: 2px solid;	
+	border-color: #3e7335;
+	background-color:#3e7335;
+	text-align: center;
+}
+body{
+	/*background-color: #277539;*/
+	background-image: url(images/cyber.jpg);
+
+}
+.w2{
+	color: ;
+	font-size: 20px;
+
+}
+#d1{
+	color: black;
+}
+.f1{
+	margin-left: 870px;
+	position: absolute;
+	margin-top: -300px;
+	font-size: 40px;
+}
+#c1{
+	margin-top: 10px;
+}
